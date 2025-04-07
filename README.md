@@ -1,5 +1,5 @@
 ### 안녕하세요 정 솔입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso1eeee)](https://hits.seeyoufarm.com)
+
 <!--
 **so1eeee/so1eeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=so1eeee&show_icons=true&hide_border=true)](https://github.com/so1eeee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so1eeee&layout=compact)](https://github.com/so1eeee)
+
 
